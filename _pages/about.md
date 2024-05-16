@@ -24,3 +24,4 @@ My research interests are `Recommender Systems`, `Graph Representation Learning`
 Also I just started posting my personal blog, which includes my daily lifes, research & academic topics, etc. You can see my blog in here: [link](https://happysky12.tistory.com/)
 
 **[CV (in Korean)](https://drive.google.com/file/d/12_Tu5n9B83_oBuf2RPURv70HdOqoEATY/view?usp=sharing)**
+**[CV (in English)](https://drive.google.com/file/d/19jY6zAs2xP-kCWyE-A5wKNAfnJOc0E1E/view?usp=sharing)**
